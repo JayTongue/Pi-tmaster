@@ -6,7 +6,8 @@ An open source project to make a food thermometer for barbecue, specifically smo
 Video Overview:
 
 
-[![Video Overview](https://img.youtube.com/vi/FeDVU0xoqzE/0.jpg)]([https://www.youtube.com/watch?v=YFeDVU0xoqzE](https://youtu.be/FeDVU0xoqzE))
+[![Video Overview](https://img.youtube.com/vi/FeDVU0xoqzE/0.jpg)](https://youtu.be/FeDVU0xoqzE)
+
 
 ------------------------------------------------
 ## 1. Hardware
