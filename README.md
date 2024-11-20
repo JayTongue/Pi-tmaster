@@ -2,6 +2,7 @@
 
 An open source project to make a food thermometer for barbecue, specifically smoking meat. The hardware for this project is all very low-cost and only requires basic skills to assemble. It's even possible to do this without soldering by using a breadboard. 
 
+UPDATE: This project has been officially certified as [open source!](https://certification.oshwa.org/us002699.html)
 
 Video Overview:
 
