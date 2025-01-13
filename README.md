@@ -56,7 +56,7 @@ The calibration of the probes/MAX6675 might be off by a few degrees. This can be
 
 #### Monitoring Code
 
-There are two python files, ``collect.py`` and ``graph.py``, to run from a monitoring station. 
+There are two python files, ``collect.py`` and ``graph.py``, to run from a monitoring station. I used a nearby Raspberry Pi 3, but you can use any device that can connect to the Pico's wifi, as well as execute a python script. This can be an SBC, laptop. phone, or even another Pico, if you want.
 
 The main code, ``collect.py``, creates a standing 'while' loop which pings the router/API (the Pico @ 192.168.1.1) and returns the current temps. It then writes each datapoint and appends it to a .txt file. Note that that appending only adds to the end of a file without reading the whole file into memory, so the time complexity for recording data is constant. 
 
